@@ -1,0 +1,2002 @@
+[
+ {
+   "name": "Quezon City",
+   "pop": 2761720,
+   "location": "https://www.google.com/maps/?q=14.6488,121.051"
+ },
+ {
+   "name": "Manila",
+   "pop": 1600000,
+   "location": "https://www.google.com/maps/?q=14.6042,120.982"
+ },
+ {
+   "name": "Caloocan City",
+   "pop": 1500000,
+   "location": "https://www.google.com/maps/?q=14.6495,120.968"
+ },
+ {
+   "name": "Budta",
+   "pop": 1273715,
+   "location": "https://www.google.com/maps/?q=7.20417,124.44"
+ },
+ {
+   "name": "Davao",
+   "pop": 1212504,
+   "location": "https://www.google.com/maps/?q=7.07306,125.613"
+ },
+ {
+   "name": "Malingao",
+   "pop": 1121974,
+   "location": "https://www.google.com/maps/?q=7.16083,124.475"
+ },
+ {
+   "name": "Cebu City",
+   "pop": 798634,
+   "location": "https://www.google.com/maps/?q=10.3167,123.891"
+ },
+ {
+   "name": "General Santos",
+   "pop": 679588,
+   "location": "https://www.google.com/maps/?q=6.11278,125.172"
+ },
+ {
+   "name": "Taguig",
+   "pop": 644473,
+   "location": "https://www.google.com/maps/?q=14.5243,121.079"
+ },
+ {
+   "name": "Pasig City",
+   "pop": 617301,
+   "location": "https://www.google.com/maps/?q=14.5869,121.061"
+ },
+ {
+   "name": "Las Pinas",
+   "pop": 590000,
+   "location": "https://www.google.com/maps/?q=14.4506,120.983"
+ },
+ {
+   "name": "Antipolo",
+   "pop": 549543,
+   "location": "https://www.google.com/maps/?q=14.6258,121.123"
+ },
+ {
+   "name": "Makati City",
+   "pop": 510383,
+   "location": "https://www.google.com/maps/?q=14.5503,121.033"
+ },
+ {
+   "name": "Zamboanga",
+   "pop": 457623,
+   "location": "https://www.google.com/maps/?q=6.91028,122.074"
+ },
+ {
+   "name": "Bacolod City",
+   "pop": 454898,
+   "location": "https://www.google.com/maps/?q=10.6667,122.95"
+ },
+ {
+   "name": "Mansilingan",
+   "pop": 454150,
+   "location": "https://www.google.com/maps/?q=10.6311,122.979"
+ },
+ {
+   "name": "Cagayan de Oro",
+   "pop": 445103,
+   "location": "https://www.google.com/maps/?q=8.48222,124.647"
+ },
+ {
+   "name": "Dasmarinas",
+   "pop": 441876,
+   "location": "https://www.google.com/maps/?q=14.3294,120.937"
+ },
+ {
+   "name": "Pasay",
+   "pop": 416522,
+   "location": "https://www.google.com/maps/?q=14.5375,121.001"
+ },
+ {
+   "name": "Iloilo",
+   "pop": 387681,
+   "location": "https://www.google.com/maps/?q=10.6969,122.564"
+ },
+ {
+   "name": "San Jose del Monte",
+   "pop": 357828,
+   "location": "https://www.google.com/maps/?q=14.8139,121.045"
+ },
+ {
+   "name": "Bacoor",
+   "pop": 356974,
+   "location": "https://www.google.com/maps/?q=14.459,120.929"
+ },
+ {
+   "name": "Lapu-Lapu City",
+   "pop": 350467,
+   "location": "https://www.google.com/maps/?q=10.3103,123.949"
+ },
+ {
+   "name": "Iligan",
+   "pop": 342618,
+   "location": "https://www.google.com/maps/?q=8.2289,124.243"
+ },
+ {
+   "name": "Mandaue City",
+   "pop": 331320,
+   "location": "https://www.google.com/maps/?q=10.3236,123.922"
+ },
+ {
+   "name": "Calamba",
+   "pop": 316612,
+   "location": "https://www.google.com/maps/?q=14.2117,121.165"
+ },
+ {
+   "name": "Iligan City",
+   "pop": 312323,
+   "location": "https://www.google.com/maps/?q=8.25,124.4"
+ },
+ {
+   "name": "Butuan",
+   "pop": 309709,
+   "location": "https://www.google.com/maps/?q=8.94917,125.544"
+ },
+ {
+   "name": "Cabuyao",
+   "pop": 308745,
+   "location": "https://www.google.com/maps/?q=14.2726,121.126"
+ },
+ {
+   "name": "Mandaluyong City",
+   "pop": 305576,
+   "location": "https://www.google.com/maps/?q=14.5832,121.041"
+ },
+ {
+   "name": "Binan",
+   "pop": 300000,
+   "location": "https://www.google.com/maps/?q=14.3427,121.081"
+ },
+ {
+   "name": "Angeles City",
+   "pop": 299391,
+   "location": "https://www.google.com/maps/?q=15.15,120.583"
+ },
+ {
+   "name": "Santol",
+   "pop": 298976,
+   "location": "https://www.google.com/maps/?q=15.1622,120.567"
+ },
+ {
+   "name": "Cainta",
+   "pop": 283172,
+   "location": "https://www.google.com/maps/?q=14.5786,121.122"
+ },
+ {
+   "name": "Baguio",
+   "pop": 272714,
+   "location": "https://www.google.com/maps/?q=16.4164,120.593"
+ },
+ {
+   "name": "San Pedro",
+   "pop": 270216,
+   "location": "https://www.google.com/maps/?q=14.3595,121.047"
+ },
+ {
+   "name": "Mantampay",
+   "pop": 265032,
+   "location": "https://www.google.com/maps/?q=8.16667,124.217"
+ },
+ {
+   "name": "San Fernando",
+   "pop": 251248,
+   "location": "https://www.google.com/maps/?q=15.0343,120.684"
+ },
+ {
+   "name": "Libertad",
+   "pop": 250353,
+   "location": "https://www.google.com/maps/?q=8.94417,125.502"
+ },
+ {
+   "name": "Navotas",
+   "pop": 249463,
+   "location": "https://www.google.com/maps/?q=14.6667,120.95"
+ },
+ {
+   "name": "Tacloban",
+   "pop": 242089,
+   "location": "https://www.google.com/maps/?q=11.2433,125.005"
+ },
+ {
+   "name": "Batangas",
+   "pop": 237370,
+   "location": "https://www.google.com/maps/?q=13.7567,121.058"
+ },
+ {
+   "name": "Magugpo Poblacion",
+   "pop": 233254,
+   "location": "https://www.google.com/maps/?q=7.4475,125.805"
+ },
+ {
+   "name": "Taytay",
+   "pop": 231460,
+   "location": "https://www.google.com/maps/?q=14.5588,121.133"
+ },
+ {
+   "name": "Lucena",
+   "pop": 228758,
+   "location": "https://www.google.com/maps/?q=13.9314,121.617"
+ },
+ {
+   "name": "Puerto Princesa",
+   "pop": 222673,
+   "location": "https://www.google.com/maps/?q=9.73917,118.735"
+ },
+ {
+   "name": "Olongapo",
+   "pop": 221178,
+   "location": "https://www.google.com/maps/?q=14.8292,120.283"
+ },
+ {
+   "name": "Cabanatuan City",
+   "pop": 220250,
+   "location": "https://www.google.com/maps/?q=15.4859,120.966"
+ },
+ {
+   "name": "Binangonan",
+   "pop": 219204,
+   "location": "https://www.google.com/maps/?q=14.4646,121.193"
+ },
+ {
+   "name": "Santa Rosa",
+   "pop": 216650,
+   "location": "https://www.google.com/maps/?q=14.3122,121.111"
+ },
+ {
+   "name": "Imus",
+   "pop": 216099,
+   "location": "https://www.google.com/maps/?q=14.4297,120.937"
+ },
+ {
+   "name": "Lipa City",
+   "pop": 212287,
+   "location": "https://www.google.com/maps/?q=13.9411,121.163"
+ },
+ {
+   "name": "San Pablo",
+   "pop": 207577,
+   "location": "https://www.google.com/maps/?q=14.0683,121.326"
+ },
+ {
+   "name": "Malolos",
+   "pop": 198748,
+   "location": "https://www.google.com/maps/?q=14.8443,120.81"
+ },
+ {
+   "name": "Ormoc",
+   "pop": 191200,
+   "location": "https://www.google.com/maps/?q=11.0064,124.607"
+ },
+ {
+   "name": "Panalanoy",
+   "pop": 189090,
+   "location": "https://www.google.com/maps/?q=11.2511,125.006"
+ },
+ {
+   "name": "Mabalacat City",
+   "pop": 188050,
+   "location": "https://www.google.com/maps/?q=15.223,120.571"
+ },
+ {
+   "name": "Pagadian",
+   "pop": 186852,
+   "location": "https://www.google.com/maps/?q=7.8257,123.437"
+ },
+ {
+   "name": "Meycauayan",
+   "pop": 184839,
+   "location": "https://www.google.com/maps/?q=14.7369,120.961"
+ },
+ {
+   "name": "Tarlac City",
+   "pop": 183930,
+   "location": "https://www.google.com/maps/?q=15.4802,120.598"
+ },
+ {
+   "name": "Legaspi",
+   "pop": 179481,
+   "location": "https://www.google.com/maps/?q=13.1412,123.741"
+ },
+ {
+   "name": "Cotabato",
+   "pop": 179433,
+   "location": "https://www.google.com/maps/?q=7.22361,124.246"
+ },
+ {
+   "name": "Naga",
+   "pop": 174931,
+   "location": "https://www.google.com/maps/?q=13.6192,123.181"
+ },
+ {
+   "name": "Dagupan",
+   "pop": 171271,
+   "location": "https://www.google.com/maps/?q=16.0431,120.333"
+ },
+ {
+   "name": "Toledo",
+   "pop": 156916,
+   "location": "https://www.google.com/maps/?q=10.3773,123.639"
+ },
+ {
+   "name": "Guyong",
+   "pop": 155391,
+   "location": "https://www.google.com/maps/?q=14.8361,120.978"
+ },
+ {
+   "name": "Bago City",
+   "pop": 150250,
+   "location": "https://www.google.com/maps/?q=10.5333,122.833"
+ },
+ {
+   "name": "Marawi City",
+   "pop": 143627,
+   "location": "https://www.google.com/maps/?q=8.0034,124.284"
+ },
+ {
+   "name": "Kabankalan",
+   "pop": 136483,
+   "location": "https://www.google.com/maps/?q=9.9839,122.814"
+ },
+ {
+   "name": "Baliuag",
+   "pop": 135679,
+   "location": "https://www.google.com/maps/?q=14.9547,120.897"
+ },
+ {
+   "name": "Rodriguez",
+   "pop": 134432,
+   "location": "https://www.google.com/maps/?q=14.7601,121.2"
+ },
+ {
+   "name": "San Mateo",
+   "pop": 134327,
+   "location": "https://www.google.com/maps/?q=14.6982,121.124"
+ },
+ {
+   "name": "Talisay",
+   "pop": 133148,
+   "location": "https://www.google.com/maps/?q=10.2447,123.849"
+ },
+ {
+   "name": "Muricay",
+   "pop": 132094,
+   "location": "https://www.google.com/maps/?q=7.8275,123.478"
+ },
+ {
+   "name": "Bulaon",
+   "pop": 131818,
+   "location": "https://www.google.com/maps/?q=15.0826,120.663"
+ },
+ {
+   "name": "Cadiz",
+   "pop": 129053,
+   "location": "https://www.google.com/maps/?q=10.9465,123.288"
+ },
+ {
+   "name": "Koronadal",
+   "pop": 125502,
+   "location": "https://www.google.com/maps/?q=6.50306,124.847"
+ },
+ {
+   "name": "Hagonoy",
+   "pop": 123531,
+   "location": "https://www.google.com/maps/?q=14.8341,120.733"
+ },
+ {
+   "name": "San Juan",
+   "pop": 121430,
+   "location": "https://www.google.com/maps/?q=14.6,121.033"
+ },
+ {
+   "name": "Silang",
+   "pop": 119475,
+   "location": "https://www.google.com/maps/?q=14.2157,120.971"
+ },
+ {
+   "name": "San Jose",
+   "pop": 118807,
+   "location": "https://www.google.com/maps/?q=12.3527,121.068"
+ },
+ {
+   "name": "Digos",
+   "pop": 116122,
+   "location": "https://www.google.com/maps/?q=6.74972,125.357"
+ },
+ {
+   "name": "Cavite City",
+   "pop": 115932,
+   "location": "https://www.google.com/maps/?q=14.4837,120.899"
+ },
+ {
+   "name": "Tuguegarao",
+   "pop": 115105,
+   "location": "https://www.google.com/maps/?q=17.6158,121.723"
+ },
+ {
+   "name": "Dumaguete",
+   "pop": 113541,
+   "location": "https://www.google.com/maps/?q=9.30722,123.303"
+ },
+ {
+   "name": "Santiago",
+   "pop": 108414,
+   "location": "https://www.google.com/maps/?q=16.6881,121.549"
+ },
+ {
+   "name": "Santa Cruz",
+   "pop": 108145,
+   "location": "https://www.google.com/maps/?q=14.2814,121.416"
+ },
+ {
+   "name": "Mati",
+   "pop": 105908,
+   "location": "https://www.google.com/maps/?q=6.95508,126.217"
+ },
+ {
+   "name": "Tanza",
+   "pop": 105510,
+   "location": "https://www.google.com/maps/?q=14.6753,120.939"
+ },
+ {
+   "name": "Roxas City",
+   "pop": 102688,
+   "location": "https://www.google.com/maps/?q=11.5853,122.751"
+ },
+ {
+   "name": "Laoag",
+   "pop": 102105,
+   "location": "https://www.google.com/maps/?q=18.1978,120.596"
+ },
+ {
+   "name": "Pulong Santa Cruz",
+   "pop": 101914,
+   "location": "https://www.google.com/maps/?q=14.2732,121.076"
+ },
+ {
+   "name": "Urdaneta",
+   "pop": 101037,
+   "location": "https://www.google.com/maps/?q=15.9761,120.571"
+ },
+ {
+   "name": "Jolo",
+   "pop": 101002,
+   "location": "https://www.google.com/maps/?q=6.05222,121.002"
+ },
+ {
+   "name": "Bocaue",
+   "pop": 98649,
+   "location": "https://www.google.com/maps/?q=14.7983,120.926"
+ },
+ {
+   "name": "General Trias",
+   "pop": 96022,
+   "location": "https://www.google.com/maps/?q=14.3869,120.882"
+ },
+ {
+   "name": "Los Banos",
+   "pop": 95750,
+   "location": "https://www.google.com/maps/?q=14.1702,121.242"
+ },
+ {
+   "name": "Iriga City",
+   "pop": 94846,
+   "location": "https://www.google.com/maps/?q=13.4324,123.411"
+ },
+ {
+   "name": "Dipolog",
+   "pop": 93549,
+   "location": "https://www.google.com/maps/?q=8.56697,123.335"
+ },
+ {
+   "name": "Ozamiz City",
+   "pop": 93082,
+   "location": "https://www.google.com/maps/?q=8.1481,123.84"
+ },
+ {
+   "name": "Calumpit",
+   "pop": 91815,
+   "location": "https://www.google.com/maps/?q=14.9164,120.766"
+ },
+ {
+   "name": "Mangaldan",
+   "pop": 88818,
+   "location": "https://www.google.com/maps/?q=16.07,120.402"
+ },
+ {
+   "name": "Arayat",
+   "pop": 87987,
+   "location": "https://www.google.com/maps/?q=15.1505,120.77"
+ },
+ {
+   "name": "Surigao",
+   "pop": 87832,
+   "location": "https://www.google.com/maps/?q=9.789,125.495"
+ },
+ {
+   "name": "Angono",
+   "pop": 87199,
+   "location": "https://www.google.com/maps/?q=14.5266,121.154"
+ },
+ {
+   "name": "Victorias",
+   "pop": 86510,
+   "location": "https://www.google.com/maps/?q=10.9015,123.071"
+ },
+ {
+   "name": "Tagbilaran City",
+   "pop": 86411,
+   "location": "https://www.google.com/maps/?q=9.65556,123.852"
+ },
+ {
+   "name": "Panabo",
+   "pop": 84749,
+   "location": "https://www.google.com/maps/?q=7.30806,125.684"
+ },
+ {
+   "name": "Mariveles",
+   "pop": 84567,
+   "location": "https://www.google.com/maps/?q=14.4339,120.486"
+ },
+ {
+   "name": "Binonga",
+   "pop": 83980,
+   "location": "https://www.google.com/maps/?q=10.7719,122.982"
+ },
+ {
+   "name": "NIA Valencia",
+   "pop": 83591,
+   "location": "https://www.google.com/maps/?q=7.90639,125.094"
+ },
+ {
+   "name": "Marilao",
+   "pop": 83276,
+   "location": "https://www.google.com/maps/?q=14.7578,120.948"
+ },
+ {
+   "name": "San Fernando",
+   "pop": 83003,
+   "location": "https://www.google.com/maps/?q=16.6159,120.317"
+ },
+ {
+   "name": "Sorsogon",
+   "pop": 82730,
+   "location": "https://www.google.com/maps/?q=12.9739,123.993"
+ },
+ {
+   "name": "Kidapawan",
+   "pop": 79652,
+   "location": "https://www.google.com/maps/?q=7.00833,125.089"
+ },
+ {
+   "name": "Norzagaray",
+   "pop": 79508,
+   "location": "https://www.google.com/maps/?q=14.9109,121.049"
+ },
+ {
+   "name": "Gapan",
+   "pop": 79064,
+   "location": "https://www.google.com/maps/?q=15.3072,120.946"
+ },
+ {
+   "name": "Daet",
+   "pop": 78142,
+   "location": "https://www.google.com/maps/?q=14.1122,122.955"
+ },
+ {
+   "name": "Apalit",
+   "pop": 77418,
+   "location": "https://www.google.com/maps/?q=14.9533,120.77"
+ },
+ {
+   "name": "Pulilan",
+   "pop": 77186,
+   "location": "https://www.google.com/maps/?q=14.9017,120.849"
+ },
+ {
+   "name": "Polangui",
+   "pop": 77122,
+   "location": "https://www.google.com/maps/?q=13.2923,123.485"
+ },
+ {
+   "name": "Guiguinto",
+   "pop": 76613,
+   "location": "https://www.google.com/maps/?q=14.8333,120.883"
+ },
+ {
+   "name": "Kawit",
+   "pop": 73210,
+   "location": "https://www.google.com/maps/?q=14.4443,120.902"
+ },
+ {
+   "name": "Balanga",
+   "pop": 72954,
+   "location": "https://www.google.com/maps/?q=14.6761,120.536"
+ },
+ {
+   "name": "Ilagan",
+   "pop": 72363,
+   "location": "https://www.google.com/maps/?q=17.1485,121.889"
+ },
+ {
+   "name": "Sagay",
+   "pop": 72153,
+   "location": "https://www.google.com/maps/?q=10.9447,123.424"
+ },
+ {
+   "name": "Capas",
+   "pop": 72070,
+   "location": "https://www.google.com/maps/?q=15.3312,120.59"
+ },
+ {
+   "name": "Solana",
+   "pop": 71475,
+   "location": "https://www.google.com/maps/?q=17.6528,121.691"
+ },
+ {
+   "name": "Bulacan",
+   "pop": 71274,
+   "location": "https://www.google.com/maps/?q=14.7928,120.879"
+ },
+ {
+   "name": "Tagaytay",
+   "pop": 71181,
+   "location": "https://www.google.com/maps/?q=14.0953,120.934"
+ },
+ {
+   "name": "Plaridel",
+   "pop": 70781,
+   "location": "https://www.google.com/maps/?q=14.8872,120.857"
+ },
+ {
+   "name": "Mariano",
+   "pop": 70516,
+   "location": "https://www.google.com/maps/?q=8.83333,125.117"
+ },
+ {
+   "name": "Danao",
+   "pop": 70270,
+   "location": "https://www.google.com/maps/?q=10.5208,124.027"
+ },
+ {
+   "name": "Magalang",
+   "pop": 68988,
+   "location": "https://www.google.com/maps/?q=15.2151,120.66"
+ },
+ {
+   "name": "Libon",
+   "pop": 68846,
+   "location": "https://www.google.com/maps/?q=13.2997,123.439"
+ },
+ {
+   "name": "Tanauan",
+   "pop": 68456,
+   "location": "https://www.google.com/maps/?q=14.0863,121.15"
+ },
+ {
+   "name": "Catbalogan",
+   "pop": 68081,
+   "location": "https://www.google.com/maps/?q=11.7753,124.886"
+ },
+ {
+   "name": "Calbayog City",
+   "pop": 67921,
+   "location": "https://www.google.com/maps/?q=12.0668,124.596"
+ },
+ {
+   "name": "Subic",
+   "pop": 67664,
+   "location": "https://www.google.com/maps/?q=14.88,120.234"
+ },
+ {
+   "name": "Bislig",
+   "pop": 67567,
+   "location": "https://www.google.com/maps/?q=8.21528,126.316"
+ },
+ {
+   "name": "City of Isabela",
+   "pop": 67336,
+   "location": "https://www.google.com/maps/?q=6.70407,121.971"
+ },
+ {
+   "name": "Dinalupihan",
+   "pop": 66670,
+   "location": "https://www.google.com/maps/?q=14.8783,120.452"
+ },
+ {
+   "name": "Calapan",
+   "pop": 66008,
+   "location": "https://www.google.com/maps/?q=13.4117,121.18"
+ },
+ {
+   "name": "San Ildefonso",
+   "pop": 65669,
+   "location": "https://www.google.com/maps/?q=15.0809,120.941"
+ },
+ {
+   "name": "San Miguel",
+   "pop": 65661,
+   "location": "https://www.google.com/maps/?q=15.1423,120.976"
+ },
+ {
+   "name": "Bais",
+   "pop": 65594,
+   "location": "https://www.google.com/maps/?q=9.59111,123.123"
+ },
+ {
+   "name": "Talisay",
+   "pop": 65265,
+   "location": "https://www.google.com/maps/?q=10.7375,122.967"
+ },
+ {
+   "name": "Talavera",
+   "pop": 64610,
+   "location": "https://www.google.com/maps/?q=15.5883,120.919"
+ },
+ {
+   "name": "Concepcion",
+   "pop": 64402,
+   "location": "https://www.google.com/maps/?q=15.3255,120.657"
+ },
+ {
+   "name": "Polomolok",
+   "pop": 63987,
+   "location": "https://www.google.com/maps/?q=6.22167,125.064"
+ },
+ {
+   "name": "Nasugbu",
+   "pop": 62857,
+   "location": "https://www.google.com/maps/?q=14.0669,120.632"
+ },
+ {
+   "name": "Tinongan",
+   "pop": 62146,
+   "location": "https://www.google.com/maps/?q=10.215,123.035"
+ },
+ {
+   "name": "Minglanilla",
+   "pop": 62058,
+   "location": "https://www.google.com/maps/?q=10.245,123.796"
+ },
+ {
+   "name": "Malaybalay",
+   "pop": 61524,
+   "location": "https://www.google.com/maps/?q=8.1575,125.128"
+ },
+ {
+   "name": "Candelaria",
+   "pop": 60881,
+   "location": "https://www.google.com/maps/?q=13.9311,121.423"
+ },
+ {
+   "name": "Ualog",
+   "pop": 60548,
+   "location": "https://www.google.com/maps/?q=10.574,123.393"
+ },
+ {
+   "name": "Tanay",
+   "pop": 59950,
+   "location": "https://www.google.com/maps/?q=14.4968,121.285"
+ },
+ {
+   "name": "Obando",
+   "pop": 59929,
+   "location": "https://www.google.com/maps/?q=14.7098,120.936"
+ },
+ {
+   "name": "Balagtas",
+   "pop": 59826,
+   "location": "https://www.google.com/maps/?q=14.8167,120.867"
+ },
+ {
+   "name": "Manaoag",
+   "pop": 59115,
+   "location": "https://www.google.com/maps/?q=16.0438,120.486"
+ },
+ {
+   "name": "Banga",
+   "pop": 58855,
+   "location": "https://www.google.com/maps/?q=6.42389,124.778"
+ },
+ {
+   "name": "Tabaco",
+   "pop": 57860,
+   "location": "https://www.google.com/maps/?q=13.3586,123.734"
+ },
+ {
+   "name": "Santo Tomas",
+   "pop": 57438,
+   "location": "https://www.google.com/maps/?q=14.1079,121.141"
+ },
+ {
+   "name": "Kalibo (poblacion)",
+   "pop": 56845,
+   "location": "https://www.google.com/maps/?q=11.7061,122.364"
+ },
+ {
+   "name": "Lingayen",
+   "pop": 56580,
+   "location": "https://www.google.com/maps/?q=16.0218,120.232"
+ },
+ {
+   "name": "Carmona",
+   "pop": 55887,
+   "location": "https://www.google.com/maps/?q=14.3132,121.058"
+ },
+ {
+   "name": "Lubao",
+   "pop": 55645,
+   "location": "https://www.google.com/maps/?q=14.9405,120.601"
+ },
+ {
+   "name": "Naic",
+   "pop": 55195,
+   "location": "https://www.google.com/maps/?q=14.3181,120.766"
+ },
+ {
+   "name": "Tacurong",
+   "pop": 54648,
+   "location": "https://www.google.com/maps/?q=6.6925,124.676"
+ },
+ {
+   "name": "Batac City",
+   "pop": 53542,
+   "location": "https://www.google.com/maps/?q=18.0554,120.565"
+ },
+ {
+   "name": "Patuto",
+   "pop": 52883,
+   "location": "https://www.google.com/maps/?q=14.1167,120.967"
+ },
+ {
+   "name": "Limay",
+   "pop": 52824,
+   "location": "https://www.google.com/maps/?q=14.5619,120.598"
+ },
+ {
+   "name": "Malungun",
+   "pop": 52248,
+   "location": "https://www.google.com/maps/?q=6.27917,125.282"
+ },
+ {
+   "name": "Monkayo",
+   "pop": 51393,
+   "location": "https://www.google.com/maps/?q=7.81528,126.054"
+ },
+ {
+   "name": "Dapitan",
+   "pop": 50514,
+   "location": "https://www.google.com/maps/?q=8.6561,123.423"
+ },
+ {
+   "name": "Balayan",
+   "pop": 50115,
+   "location": "https://www.google.com/maps/?q=13.9371,120.732"
+ },
+ {
+   "name": "Cabiao",
+   "pop": 49980,
+   "location": "https://www.google.com/maps/?q=15.2488,120.855"
+ },
+ {
+   "name": "Morong",
+   "pop": 49589,
+   "location": "https://www.google.com/maps/?q=14.5185,121.238"
+ },
+ {
+   "name": "Liloan",
+   "pop": 49198,
+   "location": "https://www.google.com/maps/?q=10.3991,123.999"
+ },
+ {
+   "name": "Port Area",
+   "pop": 48684,
+   "location": "https://www.google.com/maps/?q=14.5833,120.967"
+ },
+ {
+   "name": "Consolacion",
+   "pop": 48638,
+   "location": "https://www.google.com/maps/?q=10.3766,123.957"
+ },
+ {
+   "name": "Vigan",
+   "pop": 48545,
+   "location": "https://www.google.com/maps/?q=17.5747,120.387"
+ },
+ {
+   "name": "Paniqui",
+   "pop": 48261,
+   "location": "https://www.google.com/maps/?q=15.6689,120.581"
+ },
+ {
+   "name": "Bayombong",
+   "pop": 48199,
+   "location": "https://www.google.com/maps/?q=16.4812,121.15"
+ },
+ {
+   "name": "Masbate",
+   "pop": 47490,
+   "location": "https://www.google.com/maps/?q=12.3717,123.625"
+ },
+ {
+   "name": "Catarman",
+   "pop": 47449,
+   "location": "https://www.google.com/maps/?q=12.4989,124.638"
+ },
+ {
+   "name": "Candaba",
+   "pop": 47326,
+   "location": "https://www.google.com/maps/?q=15.0956,120.827"
+ },
+ {
+   "name": "Santa Ana",
+   "pop": 47158,
+   "location": "https://www.google.com/maps/?q=15.0955,120.767"
+ },
+ {
+   "name": "Orion",
+   "pop": 46991,
+   "location": "https://www.google.com/maps/?q=14.6206,120.582"
+ },
+ {
+   "name": "Bagong Pagasa",
+   "pop": 46365,
+   "location": "https://www.google.com/maps/?q=14.6627,121.033"
+ },
+ {
+   "name": "Bugo",
+   "pop": 45787,
+   "location": "https://www.google.com/maps/?q=8.50833,124.759"
+ },
+ {
+   "name": "Sariaya",
+   "pop": 44977,
+   "location": "https://www.google.com/maps/?q=13.9624,121.526"
+ },
+ {
+   "name": "Parang",
+   "pop": 44930,
+   "location": "https://www.google.com/maps/?q=7.37035,124.27"
+ },
+ {
+   "name": "Orani",
+   "pop": 44877,
+   "location": "https://www.google.com/maps/?q=14.8006,120.537"
+ },
+ {
+   "name": "Canlaon",
+   "pop": 44851,
+   "location": "https://www.google.com/maps/?q=10.387,123.223"
+ },
+ {
+   "name": "Binmaley",
+   "pop": 44026,
+   "location": "https://www.google.com/maps/?q=16.0323,120.269"
+ },
+ {
+   "name": "Mexico",
+   "pop": 43694,
+   "location": "https://www.google.com/maps/?q=15.0646,120.72"
+ },
+ {
+   "name": "Samal",
+   "pop": 43526,
+   "location": "https://www.google.com/maps/?q=7.07444,125.708"
+ },
+ {
+   "name": "Pinamalayan",
+   "pop": 43521,
+   "location": "https://www.google.com/maps/?q=13.046,121.462"
+ },
+ {
+   "name": "Alabel",
+   "pop": 43312,
+   "location": "https://www.google.com/maps/?q=6.10179,125.29"
+ },
+ {
+   "name": "Passi",
+   "pop": 42794,
+   "location": "https://www.google.com/maps/?q=11.1078,122.642"
+ },
+ {
+   "name": "Recodo",
+   "pop": 42788,
+   "location": "https://www.google.com/maps/?q=6.95194,121.964"
+ },
+ {
+   "name": "Compostela",
+   "pop": 42563,
+   "location": "https://www.google.com/maps/?q=7.67306,126.089"
+ },
+ {
+   "name": "Bustos",
+   "pop": 42139,
+   "location": "https://www.google.com/maps/?q=14.9581,120.918"
+ },
+ {
+   "name": "Paombong",
+   "pop": 41384,
+   "location": "https://www.google.com/maps/?q=14.8311,120.789"
+ },
+ {
+   "name": "Masantol",
+   "pop": 41278,
+   "location": "https://www.google.com/maps/?q=14.896,120.709"
+ },
+ {
+   "name": "La Trinidad",
+   "pop": 41258,
+   "location": "https://www.google.com/maps/?q=16.455,120.588"
+ },
+ {
+   "name": "Angat",
+   "pop": 41235,
+   "location": "https://www.google.com/maps/?q=14.9285,121.03"
+ },
+ {
+   "name": "Indang",
+   "pop": 41159,
+   "location": "https://www.google.com/maps/?q=14.1953,120.877"
+ },
+ {
+   "name": "La Carlota",
+   "pop": 41157,
+   "location": "https://www.google.com/maps/?q=10.4242,122.921"
+ },
+ {
+   "name": "Malita",
+   "pop": 41114,
+   "location": "https://www.google.com/maps/?q=6.415,125.612"
+ },
+ {
+   "name": "Gerona",
+   "pop": 40914,
+   "location": "https://www.google.com/maps/?q=15.6065,120.598"
+ },
+ {
+   "name": "Pagbilao",
+   "pop": 40818,
+   "location": "https://www.google.com/maps/?q=13.9669,121.698"
+ },
+ {
+   "name": "Carcar",
+   "pop": 40739,
+   "location": "https://www.google.com/maps/?q=10.1061,123.64"
+ },
+ {
+   "name": "Bayugan",
+   "pop": 40561,
+   "location": "https://www.google.com/maps/?q=8.75611,125.768"
+ },
+ {
+   "name": "Mamatid",
+   "pop": 40271,
+   "location": "https://www.google.com/maps/?q=14.2349,121.159"
+ },
+ {
+   "name": "Taal",
+   "pop": 39745,
+   "location": "https://www.google.com/maps/?q=13.8799,120.923"
+ },
+ {
+   "name": "Jaen",
+   "pop": 39700,
+   "location": "https://www.google.com/maps/?q=15.3275,120.919"
+ },
+ {
+   "name": "Camiling",
+   "pop": 39655,
+   "location": "https://www.google.com/maps/?q=15.6866,120.413"
+ },
+ {
+   "name": "Hinigaran",
+   "pop": 39636,
+   "location": "https://www.google.com/maps/?q=10.2706,122.851"
+ },
+ {
+   "name": "Banaybanay",
+   "pop": 39452,
+   "location": "https://www.google.com/maps/?q=13.85,121.2"
+ },
+ {
+   "name": "San Pascual",
+   "pop": 39395,
+   "location": "https://www.google.com/maps/?q=13.8104,121.022"
+ },
+ {
+   "name": "Pantubig",
+   "pop": 39285,
+   "location": "https://www.google.com/maps/?q=14.9681,120.955"
+ },
+ {
+   "name": "Oroquieta",
+   "pop": 39279,
+   "location": "https://www.google.com/maps/?q=8.4859,123.805"
+ },
+ {
+   "name": "Escalante",
+   "pop": 39177,
+   "location": "https://www.google.com/maps/?q=10.8403,123.499"
+ },
+ {
+   "name": "Tanjay",
+   "pop": 39151,
+   "location": "https://www.google.com/maps/?q=9.5162,123.158"
+ },
+ {
+   "name": "Papaya",
+   "pop": 38640,
+   "location": "https://www.google.com/maps/?q=15.3202,120.836"
+ },
+ {
+   "name": "Binalbagan",
+   "pop": 38587,
+   "location": "https://www.google.com/maps/?q=10.1948,122.858"
+ },
+ {
+   "name": "Sablayan",
+   "pop": 38383,
+   "location": "https://www.google.com/maps/?q=12.8346,120.769"
+ },
+ {
+   "name": "Calaca",
+   "pop": 37443,
+   "location": "https://www.google.com/maps/?q=13.9324,120.813"
+ },
+ {
+   "name": "Tayabas",
+   "pop": 37330,
+   "location": "https://www.google.com/maps/?q=14.0259,121.593"
+ },
+ {
+   "name": "Del Pilar",
+   "pop": 37329,
+   "location": "https://www.google.com/maps/?q=15.036,120.699"
+ },
+ {
+   "name": "Noveleta",
+   "pop": 37299,
+   "location": "https://www.google.com/maps/?q=14.4292,120.88"
+ },
+ {
+   "name": "Munoz",
+   "pop": 37141,
+   "location": "https://www.google.com/maps/?q=15.7161,120.903"
+ },
+ {
+   "name": "Calauan",
+   "pop": 36580,
+   "location": "https://www.google.com/maps/?q=14.1499,121.315"
+ },
+ {
+   "name": "Ramon",
+   "pop": 36307,
+   "location": "https://www.google.com/maps/?q=16.7842,121.535"
+ },
+ {
+   "name": "Solano",
+   "pop": 36222,
+   "location": "https://www.google.com/maps/?q=16.5192,121.181"
+ },
+ {
+   "name": "Bongabon",
+   "pop": 36168,
+   "location": "https://www.google.com/maps/?q=15.6321,121.145"
+ },
+ {
+   "name": "Bayawan",
+   "pop": 36063,
+   "location": "https://www.google.com/maps/?q=9.3649,122.804"
+ },
+ {
+   "name": "Tagudin",
+   "pop": 35791,
+   "location": "https://www.google.com/maps/?q=16.9355,120.444"
+ },
+ {
+   "name": "San Jose",
+   "pop": 35768,
+   "location": "https://www.google.com/maps/?q=13.35,123.55"
+ },
+ {
+   "name": "Abucay",
+   "pop": 35508,
+   "location": "https://www.google.com/maps/?q=14.7335,120.534"
+ },
+ {
+   "name": "Pandi",
+   "pop": 34927,
+   "location": "https://www.google.com/maps/?q=14.865,120.957"
+ },
+ {
+   "name": "San Leonardo",
+   "pop": 34743,
+   "location": "https://www.google.com/maps/?q=15.363,120.964"
+ },
+ {
+   "name": "Teresa",
+   "pop": 34716,
+   "location": "https://www.google.com/maps/?q=14.5612,121.219"
+ },
+ {
+   "name": "Pila",
+   "pop": 34383,
+   "location": "https://www.google.com/maps/?q=14.2325,121.365"
+ },
+ {
+   "name": "Manapla",
+   "pop": 34312,
+   "location": "https://www.google.com/maps/?q=10.958,123.123"
+ },
+ {
+   "name": "San Nicolas",
+   "pop": 34237,
+   "location": "https://www.google.com/maps/?q=18.1725,120.595"
+ },
+ {
+   "name": "San Antonio",
+   "pop": 34217,
+   "location": "https://www.google.com/maps/?q=14.9466,120.087"
+ },
+ {
+   "name": "Aliaga",
+   "pop": 34020,
+   "location": "https://www.google.com/maps/?q=15.5,120.843"
+ },
+ {
+   "name": "Pandan",
+   "pop": 34000,
+   "location": "https://www.google.com/maps/?q=11.7448,122.1"
+ },
+ {
+   "name": "Maramag",
+   "pop": 33844,
+   "location": "https://www.google.com/maps/?q=7.76333,125.005"
+ },
+ {
+   "name": "Hermosa",
+   "pop": 33714,
+   "location": "https://www.google.com/maps/?q=14.8314,120.508"
+ },
+ {
+   "name": "Malilipot",
+   "pop": 33593,
+   "location": "https://www.google.com/maps/?q=13.3188,123.739"
+ },
+ {
+   "name": "Bauan",
+   "pop": 33560,
+   "location": "https://www.google.com/maps/?q=13.7917,121.008"
+ },
+ {
+   "name": "Bay",
+   "pop": 33547,
+   "location": "https://www.google.com/maps/?q=14.1837,121.286"
+ },
+ {
+   "name": "San Luis",
+   "pop": 33467,
+   "location": "https://www.google.com/maps/?q=15.0401,120.788"
+ },
+ {
+   "name": "Aparri",
+   "pop": 33230,
+   "location": "https://www.google.com/maps/?q=18.3566,121.641"
+ },
+ {
+   "name": "Midsayap",
+   "pop": 32932,
+   "location": "https://www.google.com/maps/?q=7.19083,124.53"
+ },
+ {
+   "name": "General Tinio",
+   "pop": 32875,
+   "location": "https://www.google.com/maps/?q=15.3507,121.048"
+ },
+ {
+   "name": "Mauban",
+   "pop": 32739,
+   "location": "https://www.google.com/maps/?q=14.191,121.731"
+ },
+ {
+   "name": "Jagna",
+   "pop": 32566,
+   "location": "https://www.google.com/maps/?q=9.6531,124.37"
+ },
+ {
+   "name": "Guimba",
+   "pop": 32306,
+   "location": "https://www.google.com/maps/?q=15.6605,120.768"
+ },
+ {
+   "name": "Kabacan",
+   "pop": 31769,
+   "location": "https://www.google.com/maps/?q=7.10667,124.829"
+ },
+ {
+   "name": "Isulan",
+   "pop": 31717,
+   "location": "https://www.google.com/maps/?q=6.62944,124.605"
+ },
+ {
+   "name": "Alaminos",
+   "pop": 31427,
+   "location": "https://www.google.com/maps/?q=14.0639,121.246"
+ },
+ {
+   "name": "Maluso",
+   "pop": 31374,
+   "location": "https://www.google.com/maps/?q=6.543,121.875"
+ },
+ {
+   "name": "Cabadbaran",
+   "pop": 31114,
+   "location": "https://www.google.com/maps/?q=9.12261,125.535"
+ },
+ {
+   "name": "Surallah",
+   "pop": 31089,
+   "location": "https://www.google.com/maps/?q=6.37527,124.745"
+ },
+ {
+   "name": "Pagalungan",
+   "pop": 31052,
+   "location": "https://www.google.com/maps/?q=7.14167,124.381"
+ },
+ {
+   "name": "Lucban",
+   "pop": 30992,
+   "location": "https://www.google.com/maps/?q=14.1136,121.556"
+ },
+ {
+   "name": "Paraiso",
+   "pop": 30494,
+   "location": "https://www.google.com/maps/?q=10.8849,123.363"
+ },
+ {
+   "name": "Pililla",
+   "pop": 30408,
+   "location": "https://www.google.com/maps/?q=14.4854,121.306"
+ },
+ {
+   "name": "Tagoloan",
+   "pop": 30390,
+   "location": "https://www.google.com/maps/?q=8.53954,124.754"
+ },
+ {
+   "name": "Lumbang",
+   "pop": 30269,
+   "location": "https://www.google.com/maps/?q=14.2973,121.46"
+ },
+ {
+   "name": "Cardona",
+   "pop": 30222,
+   "location": "https://www.google.com/maps/?q=14.4865,121.228"
+ },
+ {
+   "name": "Buhi",
+   "pop": 30126,
+   "location": "https://www.google.com/maps/?q=13.4322,123.517"
+ },
+ {
+   "name": "Malvar",
+   "pop": 29880,
+   "location": "https://www.google.com/maps/?q=14.0447,121.159"
+ },
+ {
+   "name": "Aringay",
+   "pop": 29825,
+   "location": "https://www.google.com/maps/?q=16.394,120.354"
+ },
+ {
+   "name": "Samal",
+   "pop": 29729,
+   "location": "https://www.google.com/maps/?q=14.7678,120.543"
+ },
+ {
+   "name": "Tangub",
+   "pop": 29721,
+   "location": "https://www.google.com/maps/?q=8.0618,123.748"
+ },
+ {
+   "name": "Atimonan",
+   "pop": 29356,
+   "location": "https://www.google.com/maps/?q=14.0027,121.921"
+ },
+ {
+   "name": "Cordova",
+   "pop": 29289,
+   "location": "https://www.google.com/maps/?q=10.2439,123.942"
+ },
+ {
+   "name": "San Simon",
+   "pop": 29049,
+   "location": "https://www.google.com/maps/?q=14.9996,120.781"
+ },
+ {
+   "name": "Tandag",
+   "pop": 29011,
+   "location": "https://www.google.com/maps/?q=9.07833,126.199"
+ },
+ {
+   "name": "Agoo",
+   "pop": 28972,
+   "location": "https://www.google.com/maps/?q=16.0833,120.1"
+ },
+ {
+   "name": "Bah-Bah",
+   "pop": 28643,
+   "location": "https://www.google.com/maps/?q=8.60722,125.914"
+ },
+ {
+   "name": "Pandacaqui",
+   "pop": 28603,
+   "location": "https://www.google.com/maps/?q=15.1719,120.655"
+ },
+ {
+   "name": "Naga",
+   "pop": 28571,
+   "location": "https://www.google.com/maps/?q=10.209,123.758"
+ },
+ {
+   "name": "Bulan",
+   "pop": 28529,
+   "location": "https://www.google.com/maps/?q=12.6714,123.875"
+ },
+ {
+   "name": "Itogon",
+   "pop": 28407,
+   "location": "https://www.google.com/maps/?q=16.3639,120.677"
+ },
+ {
+   "name": "Narra",
+   "pop": 28342,
+   "location": "https://www.google.com/maps/?q=9.26877,118.404"
+ },
+ {
+   "name": "Burgos",
+   "pop": 28178,
+   "location": "https://www.google.com/maps/?q=15.7289,120.572"
+ },
+ {
+   "name": "Sibulan",
+   "pop": 28079,
+   "location": "https://www.google.com/maps/?q=9.3584,123.285"
+ },
+ {
+   "name": "Masinloc",
+   "pop": 28041,
+   "location": "https://www.google.com/maps/?q=15.5363,119.95"
+ },
+ {
+   "name": "Buluan",
+   "pop": 28025,
+   "location": "https://www.google.com/maps/?q=6.72028,124.802"
+ },
+ {
+   "name": "Santa Maria",
+   "pop": 28002,
+   "location": "https://www.google.com/maps/?q=16.9518,120.445"
+ },
+ {
+   "name": "Penaranda",
+   "pop": 27465,
+   "location": "https://www.google.com/maps/?q=15.3512,121.004"
+ },
+ {
+   "name": "Pulupandan",
+   "pop": 27363,
+   "location": "https://www.google.com/maps/?q=10.5203,122.802"
+ },
+ {
+   "name": "Castillejos",
+   "pop": 27301,
+   "location": "https://www.google.com/maps/?q=14.9336,120.198"
+ },
+ {
+   "name": "Lupon",
+   "pop": 27247,
+   "location": "https://www.google.com/maps/?q=6.89814,126.01"
+ },
+ {
+   "name": "Quezon",
+   "pop": 27212,
+   "location": "https://www.google.com/maps/?q=7.73028,125.099"
+ },
+ {
+   "name": "Manolo Fortich",
+   "pop": 27064,
+   "location": "https://www.google.com/maps/?q=8.36972,124.864"
+ },
+ {
+   "name": "Tabuk",
+   "pop": 27048,
+   "location": "https://www.google.com/maps/?q=17.4738,121.468"
+ },
+ {
+   "name": "Iba",
+   "pop": 26935,
+   "location": "https://www.google.com/maps/?q=15.3276,119.978"
+ },
+ {
+   "name": "Paete",
+   "pop": 26855,
+   "location": "https://www.google.com/maps/?q=14.3647,121.483"
+ },
+ {
+   "name": "Catanauan",
+   "pop": 26804,
+   "location": "https://www.google.com/maps/?q=13.5926,122.322"
+ },
+ {
+   "name": "Calabanga",
+   "pop": 26798,
+   "location": "https://www.google.com/maps/?q=13.7068,123.209"
+ },
+ {
+   "name": "Bongao",
+   "pop": 26518,
+   "location": "https://www.google.com/maps/?q=5.02917,119.773"
+ },
+ {
+   "name": "Santa Catalina",
+   "pop": 26457,
+   "location": "https://www.google.com/maps/?q=9.3337,122.864"
+ },
+ {
+   "name": "Santa Cruz",
+   "pop": 26429,
+   "location": "https://www.google.com/maps/?q=15.7654,119.909"
+ },
+ {
+   "name": "San Antonio",
+   "pop": 26247,
+   "location": "https://www.google.com/maps/?q=15.3062,120.856"
+ },
+ {
+   "name": "Rizal",
+   "pop": 26201,
+   "location": "https://www.google.com/maps/?q=15.7118,121.106"
+ },
+ {
+   "name": "Telabastagan",
+   "pop": 25935,
+   "location": "https://www.google.com/maps/?q=15.1185,120.608"
+ },
+ {
+   "name": "Maao",
+   "pop": 25837,
+   "location": "https://www.google.com/maps/?q=10.4896,122.991"
+ },
+ {
+   "name": "La Paz",
+   "pop": 25801,
+   "location": "https://www.google.com/maps/?q=15.4412,120.729"
+ },
+ {
+   "name": "Lopez",
+   "pop": 25752,
+   "location": "https://www.google.com/maps/?q=13.884,122.26"
+ },
+ {
+   "name": "Nabua",
+   "pop": 25687,
+   "location": "https://www.google.com/maps/?q=13.4075,123.372"
+ },
+ {
+   "name": "Concepcion Ibaba",
+   "pop": 25628,
+   "location": "https://www.google.com/maps/?q=13.9231,121.461"
+ },
+ {
+   "name": "Cabagan",
+   "pop": 25304,
+   "location": "https://www.google.com/maps/?q=17.4278,121.77"
+ },
+ {
+   "name": "Himamaylan",
+   "pop": 25089,
+   "location": "https://www.google.com/maps/?q=10.0989,122.871"
+ },
+ {
+   "name": "Talisay",
+   "pop": 24969,
+   "location": "https://www.google.com/maps/?q=14.0925,121.022"
+ },
+ {
+   "name": "Baggabag B",
+   "pop": 24967,
+   "location": "https://www.google.com/maps/?q=16.5059,121.19"
+ },
+ {
+   "name": "Alicia",
+   "pop": 24732,
+   "location": "https://www.google.com/maps/?q=16.7794,121.697"
+ },
+ {
+   "name": "Manibaug Pasig",
+   "pop": 24618,
+   "location": "https://www.google.com/maps/?q=15.0962,120.564"
+ },
+ {
+   "name": "Nagcarlan",
+   "pop": 24560,
+   "location": "https://www.google.com/maps/?q=14.1364,121.416"
+ },
+ {
+   "name": "Victoria",
+   "pop": 24456,
+   "location": "https://www.google.com/maps/?q=14.2277,121.329"
+ },
+ {
+   "name": "La Castellana",
+   "pop": 24407,
+   "location": "https://www.google.com/maps/?q=10.3239,123.021"
+ },
+ {
+   "name": "Pio",
+   "pop": 24345,
+   "location": "https://www.google.com/maps/?q=15.0474,120.519"
+ },
+ {
+   "name": "Calasiao",
+   "pop": 24276,
+   "location": "https://www.google.com/maps/?q=16.0111,120.36"
+ },
+ {
+   "name": "Glan",
+   "pop": 24256,
+   "location": "https://www.google.com/maps/?q=5.82417,125.203"
+ },
+ {
+   "name": "Sipalay",
+   "pop": 24029,
+   "location": "https://www.google.com/maps/?q=9.75194,122.404"
+ },
+ {
+   "name": "Mamburao",
+   "pop": 23892,
+   "location": "https://www.google.com/maps/?q=13.2233,120.596"
+ },
+ {
+   "name": "Palayan City",
+   "pop": 23742,
+   "location": "https://www.google.com/maps/?q=15.5415,121.085"
+ },
+ {
+   "name": "San Fernando",
+   "pop": 23706,
+   "location": "https://www.google.com/maps/?q=10.1624,123.708"
+ },
+ {
+   "name": "Bogo",
+   "pop": 23562,
+   "location": "https://www.google.com/maps/?q=11.0517,124.006"
+ },
+ {
+   "name": "Asia",
+   "pop": 23546,
+   "location": "https://www.google.com/maps/?q=9.5506,122.516"
+ },
+ {
+   "name": "Quiapo",
+   "pop": 23138,
+   "location": "https://www.google.com/maps/?q=14.6,120.983"
+ },
+ {
+   "name": "Pinamungahan",
+   "pop": 23068,
+   "location": "https://www.google.com/maps/?q=10.2708,123.584"
+ },
+ {
+   "name": "Mansalay",
+   "pop": 23044,
+   "location": "https://www.google.com/maps/?q=12.5204,121.439"
+ },
+ {
+   "name": "Botolan",
+   "pop": 22994,
+   "location": "https://www.google.com/maps/?q=15.2896,120.024"
+ },
+ {
+   "name": "Maragondon",
+   "pop": 22973,
+   "location": "https://www.google.com/maps/?q=14.2733,120.738"
+ },
+ {
+   "name": "Guihulngan",
+   "pop": 22931,
+   "location": "https://www.google.com/maps/?q=10.1214,123.274"
+ },
+ {
+   "name": "Bambang",
+   "pop": 22831,
+   "location": "https://www.google.com/maps/?q=16.3865,121.107"
+ },
+ {
+   "name": "Apas",
+   "pop": 22566,
+   "location": "https://www.google.com/maps/?q=10.3408,123.903"
+ },
+ {
+   "name": "Gumaca",
+   "pop": 22496,
+   "location": "https://www.google.com/maps/?q=13.921,122.1"
+ },
+ {
+   "name": "Bignay Uno",
+   "pop": 22401,
+   "location": "https://www.google.com/maps/?q=13.8645,121.488"
+ },
+ {
+   "name": "Balamban",
+   "pop": 22283,
+   "location": "https://www.google.com/maps/?q=10.5039,123.716"
+ },
+ {
+   "name": "Mendez-Nunez",
+   "pop": 22081,
+   "location": "https://www.google.com/maps/?q=14.1286,120.906"
+ },
+ {
+   "name": "Guiset East",
+   "pop": 21994,
+   "location": "https://www.google.com/maps/?q=16.0667,120.683"
+ },
+ {
+   "name": "Loma de Gato",
+   "pop": 21990,
+   "location": "https://www.google.com/maps/?q=14.7887,120.999"
+ },
+ {
+   "name": "Malanday",
+   "pop": 21901,
+   "location": "https://www.google.com/maps/?q=14.7069,121.131"
+ },
+ {
+   "name": "Cogan",
+   "pop": 21898,
+   "location": "https://www.google.com/maps/?q=10.5931,124.018"
+ },
+ {
+   "name": "Sebu",
+   "pop": 21767,
+   "location": "https://www.google.com/maps/?q=6.22066,124.693"
+ },
+ {
+   "name": "Porac",
+   "pop": 21660,
+   "location": "https://www.google.com/maps/?q=15.0711,120.542"
+ },
+ {
+   "name": "Cuenca",
+   "pop": 21558,
+   "location": "https://www.google.com/maps/?q=13.902,121.052"
+ },
+ {
+   "name": "Bansalan",
+   "pop": 21391,
+   "location": "https://www.google.com/maps/?q=6.78611,125.213"
+ },
+ {
+   "name": "Jose Panganiban",
+   "pop": 21236,
+   "location": "https://www.google.com/maps/?q=14.2906,122.692"
+ },
+ {
+   "name": "Sexmoan",
+   "pop": 21124,
+   "location": "https://www.google.com/maps/?q=14.9438,120.623"
+ },
+ {
+   "name": "Molave",
+   "pop": 21088,
+   "location": "https://www.google.com/maps/?q=8.0844,123.491"
+ },
+ {
+   "name": "Goa",
+   "pop": 20936,
+   "location": "https://www.google.com/maps/?q=13.6978,123.489"
+ },
+ {
+   "name": "Calauag",
+   "pop": 20837,
+   "location": "https://www.google.com/maps/?q=13.9575,122.288"
+ },
+ {
+   "name": "Irosin",
+   "pop": 20716,
+   "location": "https://www.google.com/maps/?q=12.7001,124.032"
+ },
+ {
+   "name": "New Corella",
+   "pop": 20574,
+   "location": "https://www.google.com/maps/?q=7.5866,125.824"
+ },
+ {
+   "name": "Don Carlos",
+   "pop": 20468,
+   "location": "https://www.google.com/maps/?q=7.68,125.005"
+ },
+ {
+   "name": "Taloc",
+   "pop": 20409,
+   "location": "https://www.google.com/maps/?q=10.5746,122.895"
+ },
+ {
+   "name": "Manay",
+   "pop": 20336,
+   "location": "https://www.google.com/maps/?q=7.215,126.54"
+ },
+ {
+   "name": "Baras",
+   "pop": 20250,
+   "location": "https://www.google.com/maps/?q=14.5169,121.266"
+ },
+ {
+   "name": "Sampaloc",
+   "pop": 20157,
+   "location": "https://www.google.com/maps/?q=14.5402,121.36"
+ },
+ {
+   "name": "Ternate",
+   "pop": 20049,
+   "location": "https://www.google.com/maps/?q=14.2897,120.717"
+ },
+ {
+   "name": "Pacol",
+   "pop": 19839,
+   "location": "https://www.google.com/maps/?q=10.45,122.817"
+ },
+ {
+   "name": "Pangil",
+   "pop": 19726,
+   "location": "https://www.google.com/maps/?q=14.4033,121.465"
+ },
+ {
+   "name": "Suay",
+   "pop": 19672,
+   "location": "https://www.google.com/maps/?q=10.0533,122.842"
+ },
+ {
+   "name": "Baao",
+   "pop": 19612,
+   "location": "https://www.google.com/maps/?q=13.4549,123.365"
+ },
+ {
+   "name": "San Francisco",
+   "pop": 19570,
+   "location": "https://www.google.com/maps/?q=15.3557,120.84"
+ },
+ {
+   "name": "Malabanban Norte",
+   "pop": 19471,
+   "location": "https://www.google.com/maps/?q=13.9452,121.431"
+ },
+ {
+   "name": "Malapatan",
+   "pop": 19439,
+   "location": "https://www.google.com/maps/?q=5.96917,125.289"
+ },
+ {
+   "name": "Laur",
+   "pop": 19206,
+   "location": "https://www.google.com/maps/?q=15.5865,121.183"
+ },
+ {
+   "name": "Ipil",
+   "pop": 19195,
+   "location": "https://www.google.com/maps/?q=7.78444,122.586"
+ },
+ {
+   "name": "Saravia",
+   "pop": 19060,
+   "location": "https://www.google.com/maps/?q=10.8775,122.968"
+ },
+ {
+   "name": "Bantayan",
+   "pop": 18984,
+   "location": "https://www.google.com/maps/?q=11.1683,123.722"
+ },
+ {
+   "name": "Sumag",
+   "pop": 18752,
+   "location": "https://www.google.com/maps/?q=10.6014,122.919"
+ },
+ {
+   "name": "Compostela",
+   "pop": 18727,
+   "location": "https://www.google.com/maps/?q=10.455,124.011"
+ },
+ {
+   "name": "San Marcelino",
+   "pop": 18721,
+   "location": "https://www.google.com/maps/?q=14.9742,120.157"
+ },
+ {
+   "name": "Buenavista",
+   "pop": 18668,
+   "location": "https://www.google.com/maps/?q=8.97694,125.409"
+ },
+ {
+   "name": "San Mariano",
+   "pop": 18668,
+   "location": "https://www.google.com/maps/?q=7.5,126"
+ },
+ {
+   "name": "San Miguel",
+   "pop": 18582,
+   "location": "https://www.google.com/maps/?q=15.444,120.599"
+ },
+ {
+   "name": "San Francisco",
+   "pop": 18542,
+   "location": "https://www.google.com/maps/?q=8.53556,125.95"
+ },
+ {
+   "name": "Quezon",
+   "pop": 18451,
+   "location": "https://www.google.com/maps/?q=15.5512,120.815"
+ },
+ {
+   "name": "General Mamerto Natividad",
+   "pop": 18393,
+   "location": "https://www.google.com/maps/?q=15.6025,121.051"
+ },
+ {
+   "name": "Maasin",
+   "pop": 18313,
+   "location": "https://www.google.com/maps/?q=10.1336,124.845"
+ },
+ {
+   "name": "Veruela",
+   "pop": 18114,
+   "location": "https://www.google.com/maps/?q=8.0731,125.956"
+ },
+ {
+   "name": "Labo",
+   "pop": 18105,
+   "location": "https://www.google.com/maps/?q=14.1532,122.83"
+ },
+ {
+   "name": "Wao",
+   "pop": 17845,
+   "location": "https://www.google.com/maps/?q=7.68333,124.667"
+ },
+ {
+   "name": "Pilar",
+   "pop": 17831,
+   "location": "https://www.google.com/maps/?q=14.66,120.565"
+ },
+ {
+   "name": "Laguilayan",
+   "pop": 17764,
+   "location": "https://www.google.com/maps/?q=6.67213,124.525"
+ },
+ {
+   "name": "Danao",
+   "pop": 17716,
+   "location": "https://www.google.com/maps/?q=9.55421,123.756"
+ },
+ {
+   "name": "Baybay",
+   "pop": 17668,
+   "location": "https://www.google.com/maps/?q=10.6785,124.801"
+ },
+ {
+   "name": "Palo",
+   "pop": 17534,
+   "location": "https://www.google.com/maps/?q=11.1575,124.991"
+ },
+ {
+   "name": "Carigara",
+   "pop": 17495,
+   "location": "https://www.google.com/maps/?q=11.2981,124.679"
+ }
+]
